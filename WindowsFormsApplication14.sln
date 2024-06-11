@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bulls and Cows", "WindowsFormsApplication14\Bulls and Cows.csproj", "{3078E55A-4581-41CF-85D5-7E7BECAC184C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Bulls and Cows", "Bulls and Cows\Bulls and Cows.vdproj", "{98BA69EB-3435-4A16-B5D8-6F34D9AD3558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3078E55A-4581-41CF-85D5-7E7BECAC184C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3078E55A-4581-41CF-85D5-7E7BECAC184C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3078E55A-4581-41CF-85D5-7E7BECAC184C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3078E55A-4581-41CF-85D5-7E7BECAC184C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98BA69EB-3435-4A16-B5D8-6F34D9AD3558}.Debug|Any CPU.ActiveCfg = Debug
+		{98BA69EB-3435-4A16-B5D8-6F34D9AD3558}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B630240-0D18-4B3A-97BC-4FF1DA81EDCF}
+	EndGlobalSection
+EndGlobal
